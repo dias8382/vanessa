@@ -1,0 +1,42 @@
+/*
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para o cabeçalho */
+h1 {
+    color: #333;
+    text-align: center;
+    margin: 20px;
+}
+
+/* Estilo para o parágrafo do contato */
+#contact-info {
+    font-size: 16px;
+    color: #ff4081;
+    text-align: center;
+    margin: 20px;
+}
+
+/* Estilo para o parágrafo que menciona a mãe da Julia */
+p {
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+    margin: 10px;
+}
+
+/* Estilo para a imagem */
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%; /* Torna a imagem redonda */
+    width: 350px; /* Define a largura desejada */
+    height: 350px; /* Define a altura desejada */
+    border: 2px solid #333;
+}
+/*
